@@ -19,13 +19,17 @@ The Music3U is a open-source and free m3u8 list with some ncs musics
 
  # Actually contains:
  Alan Walker - Force
+ 
  Alan Walker - Dreamer
 
+
  Elektronomia - Sky High
+ 
  Elektronomia - Energy
 
  Different Heaven - Nekozilla
 
  Lchavasse - Lunar Abyss
+ 
 
  Disfigure - Blank
